@@ -1,0 +1,7 @@
+{
+    "client_id" : "ABrxcASA3aiXo9ABsMvTB6YS1161djJycMlE7WtSEpBfWwAl2z",
+    "client_secret" : "qc1JdNFNUO690HHx3JgCgXUovYY9LaJ69lpmXgZY",
+    "environment" : "sandbox",
+    "redirect_uri" : "http://localhost:6022/api/callback",
+    "logging" : true
+}
